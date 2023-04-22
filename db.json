@@ -1,5 +1,4 @@
- {"personajes": [
-        {
+ {
             "id": 1,
             "personaje": "Harry James Potter",
             "apodo": "Harry",
@@ -351,5 +350,3 @@
             "hijos": [],
             "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/argus_filch.png"
         }
-    ]
-}
